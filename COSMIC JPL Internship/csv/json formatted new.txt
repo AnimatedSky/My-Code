@@ -1,0 +1,118 @@
+
+metadata
+{
+   "session":"207363be8ff21e5d064869f5f967d6e11b816156ef105e4df6c4907adfd116fe",
+   "viewport":{
+      "width":1155,
+      "height":732
+   },
+   "started_at":"2018-01-25T19:09:59.329Z",
+   "user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
+   "utc_offset":"28800",
+   "finished_at":"2018-01-25T19:10:47.606Z",
+   "live_project":false,
+   "user_language":"en",
+   "user_group_ids":[
+
+   ],
+   "subject_dimensions":[
+      {
+         "clientWidth":541,
+         "clientHeight":361,
+         "naturalWidth":640,
+         "naturalHeight":427
+      }
+   ]
+}
+
+
+subject_data
+{
+   "458036":{
+      "retired":null,
+      "link":"https://www.flickr.com/photos/davebloggs007/15899553966",
+      "origin":"Flickr",
+      "license":"Creative Commons - share adapt attribute",
+      "image_name":"15899553966_5debf88369_z.jpg",
+      "subject_id":16,
+      "attribution":"davebloggs007"
+   }
+}
+
+{  
+   "17920796":{  
+      "retired":null,
+      "id":"528",
+      "image":"528_ESP_038985_2005_RED_13741_8923.jpg"
+   }
+}
+
+
+annotations
+[
+   {
+      "task":"T0",
+      "task_label":"Outline the RSL, if present",
+      "value":[
+         {
+            "tool":0,
+            "frame":0,
+            "closed":true,
+            "points":[
+               {
+                  "x":212.1319580078125,
+                  "y":39.62122344970703
+               },
+               {
+                  "x":180.1984405517578,
+                  "y":27.79399299621582
+               },
+               {
+                  "x":190.8429412841797,
+                  "y":115.31550598144531
+               },
+               {
+                  "x":106.86959838867188,
+                  "y":218.21241760253906
+               },
+               {
+                  "x":110.41777038574219,
+                  "y":383.79364013671875
+               },
+               {
+                  "x":239.3345947265625,
+                  "y":367.23553466796875
+               },
+               {
+                  "x":459.3210754394531,
+                  "y":341.2156066894531
+               },
+               {
+                  "x":486.5237121582031,
+                  "y":212.29879760742188
+               },
+               {
+                  "x":441.5802307128906,
+                  "y":122.4118423461914
+               },
+               {
+                  "x":439.21478271484375,
+                  "y":18.33220863342285
+               },
+               {
+                  "x":393.0885925292969,
+                  "y":53.813899993896484
+               },
+               {
+                  "x":242.88275146484375,
+                  "y":53.813899993896484
+               }
+            ],
+            "details":[
+
+            ],
+            "tool_label":"RSL"
+         }
+      ]
+   }
+]

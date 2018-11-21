@@ -1,0 +1,11 @@
+smith john		s	3	2
+jobs steven		s	6	3
+capone al		n	3	3
+jackson michael		s	5	1
+humphery h		s	5	2
+rinehart jim		n	3	1
+eastman ken		n	1	1
+Bill Joe		n	1	2
+bob bill		n	1	3
+winston salem		s	5	3
+bond james		n	6	3

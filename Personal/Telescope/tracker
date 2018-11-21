@@ -1,0 +1,8 @@
+import ephem
+
+u = ephem.Uranus()
+u.compute('1781/3/13')
+print('%s %s %s' % (u.ra, u.dec, u.mag))
+5:35:45.28 23:32:54.1 5.6
+print(ephem.constellation(u))
+('Tau', 'Taurus')

@@ -1,0 +1,18 @@
+home
+	about
+	Life History
+	Goals
+	Drives
+Resume
+	Work Experience
+	Education
+	Skills
+Resources
+	GitHub
+	Resume File
+	unofficial Transcript
+footer
+	Contact
+		email
+		phone
+		linkiedin

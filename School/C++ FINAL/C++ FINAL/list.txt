@@ -1,0 +1,5 @@
+aaron john		n	3	2
+alicia steven		s	9	3
+angerla al		n	3	2
+fred michael		s	8	1
+jill hill		s	8	2
